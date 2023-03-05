@@ -4,3 +4,4 @@ Site réalisé dans l'objectif d'alimenter mon portfolio. Réalisé en utilisant
 sont uniquement à but décoratif et ne représentent aucune réalité.
 
 ![plot](./landing_page.png)
+![plot](./landing_page_2.png)
